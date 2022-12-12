@@ -1,4 +1,4 @@
-## Oiii eu sou o Pedro Henrique, Apaixonaado por programação e tecnologia!
+## Oi eu sou o Pedro Henrique, Apaixonaado por programação e tecnologia e que um dia buscara ser Engenheiro de Software!
 <div align="center">
   <a href="https://github.com/pedroferreiraa7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroferreiraa7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,5 +19,5 @@
   <a href="https://instagram.com/pedro_ferreiraa07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-ferreira-99709018b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:pedrohferreira140@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
