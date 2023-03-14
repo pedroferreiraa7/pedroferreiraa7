@@ -1,4 +1,4 @@
-## Oi eu sou o Pedro Henrique, Apaixonaado por programação e tecnologia e que um dia buscara ser Engenheiro de Software!
+## Oi eu sou o Pedro Henrique, Apaixonaado por programação e tecnologia e um dia buscarei ser Engenheiro de Software!
 <div align="center">
   <a href="https://github.com/pedroferreiraa7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroferreiraa7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
